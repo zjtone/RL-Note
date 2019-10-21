@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-21T04:51:10.346Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="qCqkx8PBN4-tLT9L7thE" version="12.1.3" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-10-21T05:41:40.110Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="y7BBGvJgtRfa58aQIoxb" version="12.1.3" type="github" pages="3">
   <diagram id="ubA2gV7Gt1cGP0GErZQh" name="数据流图">
     <mxGraphModel dx="1248" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -325,7 +325,15 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="4q86nTcR3-ZHTWAcshlE" name="体系结构图">
+  <diagram id="EicwNo6qus39ETuioe7i" name="体系结构图">
+    <mxGraphModel dx="1248" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="HyjM6ZddyKhIQpdsh5LG-0"/>
+        <mxCell id="HyjM6ZddyKhIQpdsh5LG-1" parent="HyjM6ZddyKhIQpdsh5LG-0"/>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="4q86nTcR3-ZHTWAcshlE" name="功能结构图">
     <mxGraphModel dx="1248" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="YjpKwe9_-FChdQdzL1Lq-0"/>
