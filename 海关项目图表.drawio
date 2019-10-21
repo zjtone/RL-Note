@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-21T05:41:40.110Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="y7BBGvJgtRfa58aQIoxb" version="12.1.3" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-10-21T05:43:39.052Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="GwwLjgR2NJjm6kLN8iNm" version="12.1.3" type="github" pages="3">
   <diagram id="ubA2gV7Gt1cGP0GErZQh" name="数据流图">
     <mxGraphModel dx="1248" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -374,6 +374,9 @@
         <mxCell id="YjpKwe9_-FChdQdzL1Lq-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="YjpKwe9_-FChdQdzL1Lq-1" source="YjpKwe9_-FChdQdzL1Lq-5" target="YjpKwe9_-FChdQdzL1Lq-19">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
+        <mxCell id="bGLTlVk_7r2qo4EZMqsP-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="YjpKwe9_-FChdQdzL1Lq-1" source="YjpKwe9_-FChdQdzL1Lq-5" target="bGLTlVk_7r2qo4EZMqsP-0">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="YjpKwe9_-FChdQdzL1Lq-5" value="后台系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="YjpKwe9_-FChdQdzL1Lq-1">
           <mxGeometry x="537" y="130" width="120" height="60" as="geometry"/>
         </mxCell>
@@ -387,13 +390,16 @@
           <mxGeometry x="450" y="230" width="30" height="180" as="geometry"/>
         </mxCell>
         <mxCell id="YjpKwe9_-FChdQdzL1Lq-17" value="查询报关单数据" style="rounded=0;whiteSpace=wrap;html=1;perimeterSpacing=0;spacingLeft=2;spacingRight=2;" vertex="1" parent="YjpKwe9_-FChdQdzL1Lq-1">
-          <mxGeometry x="537" y="230" width="30" height="180" as="geometry"/>
+          <mxGeometry x="507" y="230" width="30" height="180" as="geometry"/>
         </mxCell>
         <mxCell id="YjpKwe9_-FChdQdzL1Lq-18" value="绘制报关单图表&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 0px ; white-space: nowrap&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E7%BB%9F%E8%AE%A1%E6%95%B0%E6%8D%AE%E5%88%86%E5%B8%83%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BperimeterSpacing%3D0%3BspacingLeft%3D2%3BspacingRight%3D2%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22398.5%22%20y%3D%22230%22%20width%3D%2230%22%20height%3D%22180%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;perimeterSpacing=0;spacingLeft=2;spacingRight=2;" vertex="1" parent="YjpKwe9_-FChdQdzL1Lq-1">
-          <mxGeometry x="582" y="230" width="30" height="180" as="geometry"/>
+          <mxGeometry x="560" y="230" width="30" height="180" as="geometry"/>
         </mxCell>
         <mxCell id="YjpKwe9_-FChdQdzL1Lq-19" value="管理模型运行" style="rounded=0;whiteSpace=wrap;html=1;perimeterSpacing=0;spacingLeft=2;spacingRight=2;" vertex="1" parent="YjpKwe9_-FChdQdzL1Lq-1">
-          <mxGeometry x="627" y="230" width="30" height="180" as="geometry"/>
+          <mxGeometry x="610" y="230" width="30" height="180" as="geometry"/>
+        </mxCell>
+        <mxCell id="bGLTlVk_7r2qo4EZMqsP-0" value="管理临时数据" style="rounded=0;whiteSpace=wrap;html=1;perimeterSpacing=0;spacingLeft=2;spacingRight=2;" vertex="1" parent="YjpKwe9_-FChdQdzL1Lq-1">
+          <mxGeometry x="657" y="230" width="30" height="180" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
