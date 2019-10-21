@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-21T05:43:48.219Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="XcYcXZ3WhYg57GbrAfdd" version="12.1.3" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-10-21T05:52:14.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="H2IKk-oExnQmL9l8DIY5" version="12.1.3" type="github" pages="3">
   <diagram id="ubA2gV7Gt1cGP0GErZQh" name="数据流图">
     <mxGraphModel dx="1248" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -330,6 +330,36 @@
       <root>
         <mxCell id="HyjM6ZddyKhIQpdsh5LG-0"/>
         <mxCell id="HyjM6ZddyKhIQpdsh5LG-1" parent="HyjM6ZddyKhIQpdsh5LG-0"/>
+        <mxCell id="7Y6NzCqYJmaGA83m4ck8-0" value="海关业务人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
+          <mxGeometry x="80" y="40" width="560" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="7Y6NzCqYJmaGA83m4ck8-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
+          <mxGeometry x="80" y="140" width="560" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="7Y6NzCqYJmaGA83m4ck8-7" value="海关业务人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
+          <mxGeometry x="80" y="240" width="560" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="7Y6NzCqYJmaGA83m4ck8-8" value="综合检索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
+          <mxGeometry x="140" y="160" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="7Y6NzCqYJmaGA83m4ck8-9" value="关区分布&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif ; font-size: 0px ; white-space: nowrap&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E7%BB%BC%E5%90%88%E6%A3%80%E7%B4%A2%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22140%22%20y%3D%22160%22%20width%3D%2280%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
+          <mxGeometry x="260" y="160" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="7Y6NzCqYJmaGA83m4ck8-10" value="运输方式分布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
+          <mxGeometry x="380" y="160" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="7Y6NzCqYJmaGA83m4ck8-11" value="监管方式分布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
+          <mxGeometry x="500" y="160" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="7Y6NzCqYJmaGA83m4ck8-12" value="模型评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
+          <mxGeometry x="200" y="200" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="7Y6NzCqYJmaGA83m4ck8-13" value="报关单示例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
+          <mxGeometry x="320" y="200" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="7Y6NzCqYJmaGA83m4ck8-16" value="模型管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
+          <mxGeometry x="440" y="200" width="80" height="30" as="geometry"/>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
