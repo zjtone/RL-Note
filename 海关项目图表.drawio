@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-21T05:52:14.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="H2IKk-oExnQmL9l8DIY5" version="12.1.3" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-10-21T05:57:42.384Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36" etag="x4R1mwg-RJwZttX-36MN" version="12.1.3" type="github" pages="3">
   <diagram id="ubA2gV7Gt1cGP0GErZQh" name="数据流图">
     <mxGraphModel dx="1248" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -336,7 +336,7 @@
         <mxCell id="7Y6NzCqYJmaGA83m4ck8-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
           <mxGeometry x="80" y="140" width="560" height="100" as="geometry"/>
         </mxCell>
-        <mxCell id="7Y6NzCqYJmaGA83m4ck8-7" value="海关业务人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
+        <mxCell id="7Y6NzCqYJmaGA83m4ck8-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
           <mxGeometry x="80" y="240" width="560" height="100" as="geometry"/>
         </mxCell>
         <mxCell id="7Y6NzCqYJmaGA83m4ck8-8" value="综合检索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
@@ -352,13 +352,52 @@
           <mxGeometry x="500" y="160" width="80" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="7Y6NzCqYJmaGA83m4ck8-12" value="模型评估" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
-          <mxGeometry x="200" y="200" width="80" height="30" as="geometry"/>
+          <mxGeometry x="140" y="200" width="80" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="7Y6NzCqYJmaGA83m4ck8-13" value="报关单示例" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
-          <mxGeometry x="320" y="200" width="80" height="30" as="geometry"/>
+          <mxGeometry x="260" y="200" width="80" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="7Y6NzCqYJmaGA83m4ck8-16" value="模型管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
-          <mxGeometry x="440" y="200" width="80" height="30" as="geometry"/>
+          <mxGeometry x="380" y="200" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="oQCZNnZv7qxwUJf4SbQZ-1" value="数据管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
+          <mxGeometry x="200" y="254" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="oQCZNnZv7qxwUJf4SbQZ-2" value="模型管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
+          <mxGeometry x="320" y="254" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="oQCZNnZv7qxwUJf4SbQZ-3" value="运行控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
+          <mxGeometry x="440" y="254" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="oQCZNnZv7qxwUJf4SbQZ-4" value="异常识别分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
+          <mxGeometry x="320" y="296" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="oQCZNnZv7qxwUJf4SbQZ-5" value="查询管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
+          <mxGeometry x="200" y="296" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="oQCZNnZv7qxwUJf4SbQZ-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
+          <mxGeometry x="80" y="340" width="560" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="oQCZNnZv7qxwUJf4SbQZ-7" value="报关单数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
+          <mxGeometry x="140" y="375" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="oQCZNnZv7qxwUJf4SbQZ-8" value="查验记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
+          <mxGeometry x="260" y="375" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="oQCZNnZv7qxwUJf4SbQZ-9" value="数据统计记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
+          <mxGeometry x="380" y="375" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="oQCZNnZv7qxwUJf4SbQZ-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
+          <mxGeometry x="80" y="440" width="560" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="oQCZNnZv7qxwUJf4SbQZ-11" value="......" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
+          <mxGeometry x="500" y="375" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="oQCZNnZv7qxwUJf4SbQZ-12" value="......" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
+          <mxGeometry x="440" y="297" width="80" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="oQCZNnZv7qxwUJf4SbQZ-13" value="......" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HyjM6ZddyKhIQpdsh5LG-1">
+          <mxGeometry x="500" y="200" width="80" height="30" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
