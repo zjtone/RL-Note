@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-30T03:36:23.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="0VXDPxUtvgnAPEnTlvBZ" version="13.7.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-09-30T04:37:14.505Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="IVqnYM_-PSgHLQ9cPIQL" version="13.7.6" type="github" pages="2">
   <diagram id="arG45M68qVdivuCgtYqX" name="Page-1">
     <mxGraphModel dx="1248" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,6 +80,12 @@
         </mxCell>
         <mxCell id="cahUt-DoiFYbENfVSFC3-12" value="统计数据同步Aliyun" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cahUt-DoiFYbENfVSFC3-1">
           <mxGeometry x="365" y="80" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cahUt-DoiFYbENfVSFC3-13" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="cahUt-DoiFYbENfVSFC3-1">
+          <mxGeometry x="80" y="200" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cahUt-DoiFYbENfVSFC3-14" value="定期清理数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="cahUt-DoiFYbENfVSFC3-1">
+          <mxGeometry x="30" y="240" width="140" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
