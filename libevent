@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T13:45:52.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63" etag="B6q_spbchfhd1zpviDfk" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T13:47:22.620Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63" etag="FVlnX0_ypeSxBrDw-x8L" version="14.3.0" type="github">
   <diagram id="0xeNJL9ZawIjDyZ294iN" name="Page-1">
     <mxGraphModel dx="556" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,11 +49,30 @@
         <mxCell id="4qe-qd7SG5HFbIxQqPev-15" value="如果是信号事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="110" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4qe-qd7SG5HFbIxQqPev-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4qe-qd7SG5HFbIxQqPev-16" target="4qe-qd7SG5HFbIxQqPev-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="65" />
+              <mxPoint x="750" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4qe-qd7SG5HFbIxQqPev-16" value="evmap_io_add_，添加事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="35" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4qe-qd7SG5HFbIxQqPev-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4qe-qd7SG5HFbIxQqPev-17" target="4qe-qd7SG5HFbIxQqPev-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="750" y="140" />
+              <mxPoint x="750" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="4qe-qd7SG5HFbIxQqPev-17" value="evmap_signal_add_，添加事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="110" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4qe-qd7SG5HFbIxQqPev-22" value="如果设置了超时，则进入超时设置，否则返回。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="180" width="350" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
