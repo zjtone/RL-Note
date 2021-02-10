@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T14:21:22.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63" etag="FnBJ7tmGR2kLo0wWXzSY" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T14:38:16.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36 Edg/88.0.705.63" etag="QpeTL2Ej6aYsu8KlAD7q" version="14.3.0" type="github">
   <diagram id="0xeNJL9ZawIjDyZ294iN" name="Page-1">
-    <mxGraphModel dx="1325" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="556" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,8 +71,14 @@
         <mxCell id="4qe-qd7SG5HFbIxQqPev-17" value="evmap_signal_add_，添加事件" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="110" width="140" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="4qe-qd7SG5HFbIxQqPev-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4qe-qd7SG5HFbIxQqPev-22" target="4qe-qd7SG5HFbIxQqPev-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="4qe-qd7SG5HFbIxQqPev-22" value="如果设置了超时，则进入超时设置，否则返回。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="180" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4qe-qd7SG5HFbIxQqPev-27" value="1. 如果超时，则调用event_queue_remove_timeout&lt;br&gt;2. 如果处于超时且活动状态，重新排列超时，并调用event_queue_remove_active从活动列表中移除&lt;br&gt;3. 获取当前时间并计算应该设置的超时时间&lt;br&gt;4. 插入事件的超时时间&lt;br&gt;5. 如果当前没有处于正确的线程中，需要提醒" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="250" width="350" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
