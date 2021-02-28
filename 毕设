@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-28T05:13:36.914Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="yUzYxhNHR7qZiZtzxaS1" version="14.4.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-02-28T05:15:33.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="ocXlOMRQhyhKLYHelmse" version="14.4.3" type="github" pages="6">
   <diagram id="cT8C3Wdx867ogpfSZsGx" name="同质网络">
     <mxGraphModel dx="1248" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1357,7 +1357,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zdRhIaF4Vtqrve_2zWUZ" name="高阶信息">
-    <mxGraphModel dx="1248" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1468" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="920pNJs8sAuWwd1t9rnH-0" />
         <mxCell id="920pNJs8sAuWwd1t9rnH-1" parent="920pNJs8sAuWwd1t9rnH-0" />
@@ -1487,8 +1487,20 @@
         <mxCell id="zElNo6m_D6iXAQHu7HVF-43" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" vertex="1" parent="920pNJs8sAuWwd1t9rnH-1">
           <mxGeometry x="566" y="127" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="zElNo6m_D6iXAQHu7HVF-47" value="&lt;font style=&quot;font-size: 24px&quot;&gt;...&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="920pNJs8sAuWwd1t9rnH-1">
+        <mxCell id="zElNo6m_D6iXAQHu7HVF-47" value="&lt;span style=&quot;font-size: 24px&quot;&gt;...&lt;/span&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="920pNJs8sAuWwd1t9rnH-1">
           <mxGeometry x="310" y="123" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="zElNo6m_D6iXAQHu7HVF-58" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#000000;rotation=-90;" vertex="1" parent="920pNJs8sAuWwd1t9rnH-1">
+          <mxGeometry x="187.63" y="143.63" width="20" height="238.75" as="geometry" />
+        </mxCell>
+        <mxCell id="zElNo6m_D6iXAQHu7HVF-59" value="近邻信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="920pNJs8sAuWwd1t9rnH-1">
+          <mxGeometry x="146.63" y="280" width="102" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="zElNo6m_D6iXAQHu7HVF-63" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;strokeColor=#000000;rotation=-90;" vertex="1" parent="920pNJs8sAuWwd1t9rnH-1">
+          <mxGeometry x="503.86" y="181.96" width="20" height="162.09" as="geometry" />
+        </mxCell>
+        <mxCell id="zElNo6m_D6iXAQHu7HVF-64" value="高阶信息" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="920pNJs8sAuWwd1t9rnH-1">
+          <mxGeometry x="462.86" y="280" width="102" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
