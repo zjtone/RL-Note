@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-04T01:44:56.179Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="8N_o1zV93ToH2k5ckD8L" version="14.4.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2021-03-04T01:47:01.553Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="o1CnXihY49rqy3v8P7ok" version="14.4.3" type="github" pages="10">
   <diagram id="cT8C3Wdx867ogpfSZsGx" name="同质网络">
     <mxGraphModel dx="1248" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -822,7 +822,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="RBkWQ-_cscHlv0IP52bk" name="异质网络算法结构">
-    <mxGraphModel dx="1783" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1248" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="qbfNWHuJg8CewK5xptcL-0" />
         <mxCell id="qbfNWHuJg8CewK5xptcL-1" parent="qbfNWHuJg8CewK5xptcL-0" />
@@ -1304,7 +1304,7 @@
           <mxGeometry x="74.28571428571426" width="18.571428571428566" height="20" as="geometry" />
         </mxCell>
         <mxCell id="GcsE7kaD-Ulo4WWblZ-o-0" value="输出层" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontSize=20;" vertex="1" parent="qbfNWHuJg8CewK5xptcL-1">
-          <mxGeometry x="300" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="127.57" y="830" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GcsE7kaD-Ulo4WWblZ-o-1" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="qbfNWHuJg8CewK5xptcL-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1332,6 +1332,24 @@
               <mxPoint x="108.57" y="370" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GcsE7kaD-Ulo4WWblZ-o-9" value="高阶邻居采样" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="qbfNWHuJg8CewK5xptcL-1">
+          <mxGeometry x="361.57" y="100" width="169" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YOpO-BI0ChNyLwZ_WFzi-0" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#f5f5f5;strokeColor=#666666;" edge="1" parent="qbfNWHuJg8CewK5xptcL-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="187.46000000000012" y="780" as="sourcePoint" />
+            <mxPoint x="187" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YOpO-BI0ChNyLwZ_WFzi-1" value="高阶邻居聚合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="qbfNWHuJg8CewK5xptcL-1">
+          <mxGeometry x="357.57" y="630" width="169" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YOpO-BI0ChNyLwZ_WFzi-2" value="近邻聚合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="qbfNWHuJg8CewK5xptcL-1">
+          <mxGeometry x="103.07" y="240" width="169" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="YOpO-BI0ChNyLwZ_WFzi-3" value="信息组合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="qbfNWHuJg8CewK5xptcL-1">
+          <mxGeometry x="131.14" y="720" width="104.43" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
