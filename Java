@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T11:41:16.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="XllNOYiqYlQATeRR9kBD" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-20T11:43:38.157Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="9Isbtdcsu3oP2GCSuDXX" version="14.4.9" type="github">
   <diagram id="AWk64zvHrq6xi0oqUEW6" name="Page-1">
     <mxGraphModel dx="2075" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -90,6 +90,30 @@
         </mxCell>
         <mxCell id="NFi_puOrov2ILlIOBE6s-28" value="符号引用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="540" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NFi_puOrov2ILlIOBE6s-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="400" width="20" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="NFi_puOrov2ILlIOBE6s-30" value="String" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="400" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NFi_puOrov2ILlIOBE6s-31" value="基本数据类型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="420" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NFi_puOrov2ILlIOBE6s-32" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="459.5" as="sourcePoint" />
+            <mxPoint x="850" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="NFi_puOrov2ILlIOBE6s-33" value="包装类" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="440" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NFi_puOrov2ILlIOBE6s-34" value="final修饰的变量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="460" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NFi_puOrov2ILlIOBE6s-36" value="编译期间可以确定的值" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="500" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
