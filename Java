@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T11:44:50.472Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ubd99dnBomXmTPPtKLsE" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-20T11:46:11.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="fz36QlOifPo5RyLxj0Ka" version="14.4.9" type="github">
   <diagram id="AWk64zvHrq6xi0oqUEW6" name="Page-1">
     <mxGraphModel dx="2075" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,8 +118,14 @@
         <mxCell id="NFi_puOrov2ILlIOBE6s-36" value="编译期间可以确定的值" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="500" width="70" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="NFi_puOrov2ILlIOBE6s-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NFi_puOrov2ILlIOBE6s-38" target="NFi_puOrov2ILlIOBE6s-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NFi_puOrov2ILlIOBE6s-38" value="类型、域、方法的引用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="880" y="550" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NFi_puOrov2ILlIOBE6s-40" value="jvm为每个加载的类都创建一个java.lang.Class的实例（存储在堆上）。而jvm必须以某种方式把Class的这个实例和存储在方法区中的类型数据（类的元数据）联系起来， 因此，类的元数据里面保存了一个Class对象的引用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="835" y="680" width="220" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
