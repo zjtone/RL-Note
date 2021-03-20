@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T11:46:11.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="fz36QlOifPo5RyLxj0Ka" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-20T11:52:06.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="OzMMJF-dr2qT_Pnj2uH-" version="14.4.9" type="github">
   <diagram id="AWk64zvHrq6xi0oqUEW6" name="Page-1">
     <mxGraphModel dx="2075" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,7 +68,7 @@
         <mxCell id="NFi_puOrov2ILlIOBE6s-18" value="1. 逃逸分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-120" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="NFi_puOrov2ILlIOBE6s-19" value="1. 垃圾收集算法&lt;br&gt;2. 垃圾收集器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="NFi_puOrov2ILlIOBE6s-19" value="1. 创建对象&lt;br&gt;2. gc算法&lt;br&gt;3. 垃圾收集器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NFi_puOrov2ILlIOBE6s-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
