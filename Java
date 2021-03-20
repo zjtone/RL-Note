@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T12:35:00.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="mmJfiXbdq9CkBjX34s_W" version="14.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-20T12:38:31.293Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="eD5zqXWFYW8qZa3Sf-z4" version="14.4.9" type="github" pages="2">
   <diagram id="AWk64zvHrq6xi0oqUEW6" name="Page-1">
     <mxGraphModel dx="2075" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -131,7 +131,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6PLG_AscdU_8MJw_6beW" name="Page-2">
-    <mxGraphModel dx="1783" dy="2188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1248" dy="1882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4lStF9tZaiWhiw0BHlxM-0" />
         <mxCell id="4lStF9tZaiWhiw0BHlxM-1" parent="4lStF9tZaiWhiw0BHlxM-0" />
@@ -256,7 +256,7 @@
           <mxGeometry x="278.75" y="350" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4lStF9tZaiWhiw0BHlxM-66" value="线程通信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4lStF9tZaiWhiw0BHlxM-1">
-          <mxGeometry x="279.75" y="430" width="80" height="40" as="geometry" />
+          <mxGeometry x="278.75" y="420" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4lStF9tZaiWhiw0BHlxM-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4lStF9tZaiWhiw0BHlxM-1" source="4lStF9tZaiWhiw0BHlxM-68" target="4lStF9tZaiWhiw0BHlxM-70">
           <mxGeometry relative="1" as="geometry" />
@@ -360,11 +360,40 @@
         <mxCell id="P6i4g1h1QSyUUMxycWwD-31" value="线程调度" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4lStF9tZaiWhiw0BHlxM-1">
           <mxGeometry x="279.75" y="230" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="P6i4g1h1QSyUUMxycWwD-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4lStF9tZaiWhiw0BHlxM-1" source="P6i4g1h1QSyUUMxycWwD-43" target="P6i4g1h1QSyUUMxycWwD-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P6i4g1h1QSyUUMxycWwD-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4lStF9tZaiWhiw0BHlxM-1" source="P6i4g1h1QSyUUMxycWwD-43" target="P6i4g1h1QSyUUMxycWwD-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="P6i4g1h1QSyUUMxycWwD-43" value="互斥锁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4lStF9tZaiWhiw0BHlxM-1">
           <mxGeometry x="638.5" y="410" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="P6i4g1h1QSyUUMxycWwD-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4lStF9tZaiWhiw0BHlxM-1" source="P6i4g1h1QSyUUMxycWwD-44" target="P6i4g1h1QSyUUMxycWwD-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="P6i4g1h1QSyUUMxycWwD-44" value="共享锁" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4lStF9tZaiWhiw0BHlxM-1">
           <mxGeometry x="638.5" y="460" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P6i4g1h1QSyUUMxycWwD-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4lStF9tZaiWhiw0BHlxM-1" source="P6i4g1h1QSyUUMxycWwD-47" target="P6i4g1h1QSyUUMxycWwD-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P6i4g1h1QSyUUMxycWwD-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="4lStF9tZaiWhiw0BHlxM-1" source="P6i4g1h1QSyUUMxycWwD-47" target="P6i4g1h1QSyUUMxycWwD-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P6i4g1h1QSyUUMxycWwD-47" value="Synchronized" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4lStF9tZaiWhiw0BHlxM-1">
+          <mxGeometry x="760" y="380" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P6i4g1h1QSyUUMxycWwD-51" value="锁升级" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4lStF9tZaiWhiw0BHlxM-1">
+          <mxGeometry x="880" y="350" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P6i4g1h1QSyUUMxycWwD-52" value="锁降级" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4lStF9tZaiWhiw0BHlxM-1">
+          <mxGeometry x="880" y="400" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="P6i4g1h1QSyUUMxycWwD-55" value="AQS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="4lStF9tZaiWhiw0BHlxM-1">
+          <mxGeometry x="760" y="460" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
