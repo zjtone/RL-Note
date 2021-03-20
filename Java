@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-20T12:05:45.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="4sQxceLe1NsZVOT9MtT2" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-20T12:07:09.020Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="U8JLUijQdi0zum7_FVN6" version="14.4.9" type="github">
   <diagram id="AWk64zvHrq6xi0oqUEW6" name="Page-1">
     <mxGraphModel dx="2075" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,6 +155,9 @@
         <mxCell id="NFi_puOrov2ILlIOBE6s-49" value="使用对象" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="160" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="NFi_puOrov2ILlIOBE6s-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NFi_puOrov2ILlIOBE6s-50" target="NFi_puOrov2ILlIOBE6s-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="NFi_puOrov2ILlIOBE6s-50" value="清除对象" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="240" width="80" height="40" as="geometry" />
         </mxCell>
@@ -236,6 +239,21 @@
         </mxCell>
         <mxCell id="NFi_puOrov2ILlIOBE6s-76" value="线程通信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1280" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NFi_puOrov2ILlIOBE6s-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="NFi_puOrov2ILlIOBE6s-79" target="NFi_puOrov2ILlIOBE6s-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFi_puOrov2ILlIOBE6s-79" value="可达性分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160.5" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NFi_puOrov2ILlIOBE6s-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="NFi_puOrov2ILlIOBE6s-83" target="NFi_puOrov2ILlIOBE6s-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NFi_puOrov2ILlIOBE6s-83" value="垃圾收集算法" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1161" y="320" width="79" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="NFi_puOrov2ILlIOBE6s-85" value="垃圾收集器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1281" y="320" width="79" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
