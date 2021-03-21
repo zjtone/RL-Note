@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T06:09:28.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="w-Dsk8S2BvqiZik6bgzn" version="14.4.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-03-21T06:09:55.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="0oW6O4caZZ92mN44G47T" version="14.4.9" type="github" pages="2">
   <diagram id="AWk64zvHrq6xi0oqUEW6" name="Page-1">
     <mxGraphModel dx="2075" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,7 +69,7 @@
           <mxGeometry x="-120" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NFi_puOrov2ILlIOBE6s-19" value="1. 创建对象&lt;br&gt;2. gc算法&lt;br&gt;3. 垃圾收集器" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="720" y="230" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NFi_puOrov2ILlIOBE6s-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="680" y="400" width="120" height="210" as="geometry" />
