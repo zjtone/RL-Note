@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T11:36:20.848Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="ZXuAz79u5Ilvjgh5wcCW" version="14.4.9" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-03-21T11:47:20.037Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="92mr5MWnnhGzqfWOmCXN" version="14.4.9" type="github" pages="4">
   <diagram id="AWk64zvHrq6xi0oqUEW6" name="Page-1">
     <mxGraphModel dx="2075" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -136,7 +136,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6PLG_AscdU_8MJw_6beW" name="Page-2">
-    <mxGraphModel dx="1248" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1248" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4lStF9tZaiWhiw0BHlxM-0" />
         <mxCell id="4lStF9tZaiWhiw0BHlxM-1" parent="4lStF9tZaiWhiw0BHlxM-0" />
@@ -258,6 +258,9 @@
             <mxPoint x="647.5" y="391" as="targetPoint" />
             <mxPoint x="607.5" y="391" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="lo1zjTKHC-jBwrximvw--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="4lStF9tZaiWhiw0BHlxM-1" source="4lStF9tZaiWhiw0BHlxM-58" target="lo1zjTKHC-jBwrximvw--3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4lStF9tZaiWhiw0BHlxM-58" value="调用构造函数" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="4lStF9tZaiWhiw0BHlxM-1" vertex="1">
           <mxGeometry x="646.5" y="370" width="80" height="40" as="geometry" />
@@ -496,6 +499,9 @@
         </mxCell>
         <mxCell id="lo1zjTKHC-jBwrximvw--1" value="方法调用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="4lStF9tZaiWhiw0BHlxM-1">
           <mxGeometry x="168.5" y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lo1zjTKHC-jBwrximvw--3" value="对象的内存布局" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="4lStF9tZaiWhiw0BHlxM-1">
+          <mxGeometry x="768.75" y="370" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
