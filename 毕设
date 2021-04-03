@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-03T07:45:34.875Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="bmH22dPZdJrasUEOMBGT" version="14.5.6" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2021-04-03T07:45:49.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="QkLXxoZ0jmgRPabxb-py" version="14.5.6" type="github" pages="19">
   <diagram id="cT8C3Wdx867ogpfSZsGx" name="同质网络">
     <mxGraphModel dx="1248" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1294,7 +1294,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GcsE7kaD-Ulo4WWblZ-o-9" value="邻居采样" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="qbfNWHuJg8CewK5xptcL-1" vertex="1">
+        <mxCell id="GcsE7kaD-Ulo4WWblZ-o-9" value="采样" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="qbfNWHuJg8CewK5xptcL-1" vertex="1">
           <mxGeometry x="361.57" y="100" width="169" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YOpO-BI0ChNyLwZ_WFzi-0" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#f5f5f5;strokeColor=#666666;" parent="qbfNWHuJg8CewK5xptcL-1" edge="1">
@@ -1303,7 +1303,7 @@
             <mxPoint x="192" y="790" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YOpO-BI0ChNyLwZ_WFzi-1" value="采样邻居聚合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="qbfNWHuJg8CewK5xptcL-1" vertex="1">
+        <mxCell id="YOpO-BI0ChNyLwZ_WFzi-1" value="采样节点聚合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="qbfNWHuJg8CewK5xptcL-1" vertex="1">
           <mxGeometry x="378.57" y="610" width="169" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YOpO-BI0ChNyLwZ_WFzi-2" value="近邻聚合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="qbfNWHuJg8CewK5xptcL-1" vertex="1">
