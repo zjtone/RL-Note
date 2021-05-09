@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-09T02:04:47.118Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="DMQ5TWQw1xMfuez8AZda" version="14.6.11" type="github" pages="21">
+<mxfile host="app.diagrams.net" modified="2021-05-09T02:04:57.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="rn83HVAysMQeFJrKwnwF" version="14.6.11" type="github" pages="21">
   <diagram id="cT8C3Wdx867ogpfSZsGx" name="同质网络">
     <mxGraphModel dx="1248" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1169,7 +1169,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YOpO-BI0ChNyLwZ_WFzi-1" value="采样节点聚合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="qbfNWHuJg8CewK5xptcL-1" vertex="1">
-          <mxGeometry x="75.1400000000001" y="490" width="169" height="20" as="geometry" />
+          <mxGeometry x="307.0000000000001" y="510" width="169" height="20" as="geometry" />
         </mxCell>
         <mxCell id="YOpO-BI0ChNyLwZ_WFzi-3" value="信息组合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="qbfNWHuJg8CewK5xptcL-1" vertex="1">
           <mxGeometry x="176.92999999999998" y="761" width="104.43" height="20" as="geometry" />
