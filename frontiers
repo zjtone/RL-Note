@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-24T11:16:46.564Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="jKOGFMhimMbtq3kfRcn-" version="14.7.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-28T09:24:27.662Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="ok5ZVAp9jFOSWfCWzM8m" version="14.7.0" type="github" pages="2">
   <diagram id="d5CzHsJgRY8EamnoNzbb" name="architecture">
     <mxGraphModel dx="861" dy="492" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -366,24 +366,6 @@
         <mxCell id="jTS2kZvZbT48iA8dKhJg-294" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=4;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="616" y="140" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="jTS2kZvZbT48iA8dKhJg-297" value="Original graph" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" parent="1" vertex="1">
-          <mxGeometry x="105" y="50" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="jTS2kZvZbT48iA8dKhJg-298" value="Filtered graph" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" parent="1" vertex="1">
-          <mxGeometry x="105" y="350" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="jTS2kZvZbT48iA8dKhJg-304" value="Filtered graph" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" parent="1" vertex="1">
-          <mxGeometry x="325" y="50" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="jTS2kZvZbT48iA8dKhJg-305" value="Enhanced graph" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" parent="1" vertex="1">
-          <mxGeometry x="320" y="350" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="jTS2kZvZbT48iA8dKhJg-306" value="Enhanced graph" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" parent="1" vertex="1">
-          <mxGeometry x="540" y="50" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="jTS2kZvZbT48iA8dKhJg-307" value="Output" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;" parent="1" vertex="1">
-          <mxGeometry x="540" y="350" width="100" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="jTS2kZvZbT48iA8dKhJg-308" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=4;strokeWidth=2;opacity=80;fillColor=#e1d5e7;strokeColor=#9673a6;endWidth=11.243718985050405;endSize=2.66927374301676;width=6.368715083798883;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="209" as="sourcePoint" />
@@ -396,7 +378,7 @@
             <mxPoint x="270" y="209" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jTS2kZvZbT48iA8dKhJg-310" value="a) Graph Filtration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="jTS2kZvZbT48iA8dKhJg-310" value="a) Graph Filtering" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="90" y="10" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="jTS2kZvZbT48iA8dKhJg-311" value="b) Graph Augmentation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;fontStyle=1" parent="1" vertex="1">
@@ -553,7 +535,7 @@
             <mxPoint x="376" y="283" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6NOAXN2-7lhX_-TcfDdE-3" value="Pick node with Transaction amount/ Number of transactions/&amp;nbsp;&lt;br&gt;Node degree" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="6NOAXN2-7lhX_-TcfDdE-3" value="Pick nodes with Transaction amount/ Number of transactions/&amp;nbsp;&lt;br&gt;Node degree" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="83" y="190" width="134" height="55" as="geometry" />
         </mxCell>
         <mxCell id="jTS2kZvZbT48iA8dKhJg-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=0;fontSize=4;endArrow=classic;endFill=1;strokeWidth=2;opacity=80;elbow=vertical;curved=1;dashed=1;exitX=1;exitY=1;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;endSize=7;" parent="1" source="DbI5W-Y-chImRKB6QN-o-12" target="jTS2kZvZbT48iA8dKhJg-87" edge="1">
