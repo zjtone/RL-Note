@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T13:49:49.593Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="7xxf7DbZR8FcnVCBvPwl" version="14.7.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-06-16T13:52:52.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="A5QBJBNq2d0oYSJ_kCZQ" version="14.7.0" type="github" pages="7">
   <diagram id="d5CzHsJgRY8EamnoNzbb" name="architecture">
     <mxGraphModel dx="1070" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2783,8 +2783,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="J9UMRoxrE8hn9rIbFZcR" name="Page-7">
-    <mxGraphModel dx="1552" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="J9UMRoxrE8hn9rIbFZcR" name="FA-GNN">
+    <mxGraphModel dx="1070" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="-mfFctUJtPhh_EIyP602-0" />
         <mxCell id="-mfFctUJtPhh_EIyP602-1" parent="-mfFctUJtPhh_EIyP602-0" />
@@ -2830,14 +2830,14 @@
             <mxPoint x="270" y="224.75999999999976" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-mfFctUJtPhh_EIyP602-14" value="a) Graph Filtering" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;fontStyle=1" vertex="1" parent="-mfFctUJtPhh_EIyP602-1">
-          <mxGeometry x="90" y="10" width="120" height="30" as="geometry" />
+        <mxCell id="-mfFctUJtPhh_EIyP602-14" value="a) 有偏好邻域过滤模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;fontStyle=1" vertex="1" parent="-mfFctUJtPhh_EIyP602-1">
+          <mxGeometry x="85" y="10" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-mfFctUJtPhh_EIyP602-15" value="b) Graph Augmentation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;fontStyle=1" vertex="1" parent="-mfFctUJtPhh_EIyP602-1">
-          <mxGeometry x="368" y="10" width="140" height="30" as="geometry" />
+        <mxCell id="-mfFctUJtPhh_EIyP602-15" value="b) 双视角注意力机制模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;fontStyle=1" vertex="1" parent="-mfFctUJtPhh_EIyP602-1">
+          <mxGeometry x="350" y="10" width="158" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-mfFctUJtPhh_EIyP602-16" value="c) Embedding" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;fontStyle=1" vertex="1" parent="-mfFctUJtPhh_EIyP602-1">
-          <mxGeometry x="637.36" y="10" width="140" height="30" as="geometry" />
+        <mxCell id="-mfFctUJtPhh_EIyP602-16" value="c) 图表征学习模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;fontStyle=1" vertex="1" parent="-mfFctUJtPhh_EIyP602-1">
+          <mxGeometry x="640.87" y="10" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-mfFctUJtPhh_EIyP602-17" value="" style="endArrow=classic;html=1;fontSize=4;strokeWidth=2;opacity=80;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="-mfFctUJtPhh_EIyP602-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
