@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-20T06:58:55.334Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="TXRPKl5QwYuN4k-2uu0R" version="14.7.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-06-20T07:10:16.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="2EVICKEbJUr_Yv22js4G" version="14.7.0" type="github" pages="7">
   <diagram id="d5CzHsJgRY8EamnoNzbb" name="architecture">
     <mxGraphModel dx="1070" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2833,7 +2833,7 @@
         <mxCell id="-mfFctUJtPhh_EIyP602-14" value="a) 有偏好邻域过滤模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="-mfFctUJtPhh_EIyP602-1">
           <mxGeometry x="62.5" y="10" width="175" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-mfFctUJtPhh_EIyP602-15" value="b) 双视角邻域聚合模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="-mfFctUJtPhh_EIyP602-1">
+        <mxCell id="-mfFctUJtPhh_EIyP602-15" value="b) 邻域聚合模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="-mfFctUJtPhh_EIyP602-1">
           <mxGeometry x="307.5" y="10" width="215" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-mfFctUJtPhh_EIyP602-16" value="c) 图表征学习模块" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1" vertex="1" parent="-mfFctUJtPhh_EIyP602-1">
